@@ -1,0 +1,7 @@
+2024-05-12 14:22:31 INFO User 'admin' logged in from 192.168.1.24
+2024-05-12 14:23:10 WARNING Failed login attempt for user 'root' from 185.199.110.153
+2024-05-12 14:23:12 WARNING Failed login attempt for user 'root' from 185.199.110.153
+2024-05-12 14:23:15 WARNING Failed login attempt for user 'root' from 185.199.110.153
+2024-05-12 14:24:01 INFO File '/var/www/html/index.php' accessed by 192.168.1.24
+2024-05-12 14:25:44 ERROR Unauthorized access attempt detected from 185.199.110.153
+2024-05-12 14:26:02 INFO User 'admin' logged out
