@@ -56,4 +56,5 @@ These experiments are stored in the **AI-in-Cybersecurity/** folder.
 ---
 
 ## 📫 Contact
-Feel free to connect with me on LinkedIn or reach out for collaboration!
+- **Email:** Lgowen1826@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/lucas-gowen-494987293
