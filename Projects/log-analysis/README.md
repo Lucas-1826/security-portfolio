@@ -1,23 +1,30 @@
 # Log Analysis Project
 
-This project demonstrates my ability to analyze security logs, identify suspicious activity, and document findings in a clear incident report.
+This project demonstrates my ability to analyze system logs, identify suspicious activity, and document findings in a clear, professional format.
 
-## Contents
-- Sample logs
-- Python analysis script (coming soon)
-- Incident report
-- Key findings
-## Key Findings
+## 🔍 Project Overview
+I analyzed a sample log file to identify unusual behavior, potential security incidents, and indicators of compromise (IOCs).  
+This project simulates real SOC analyst responsibilities such as log review, threat detection, and reporting.
 
-- Multiple failed login attempts targeting the 'root' account were detected within a short time window.
-- All failed attempts originated from the same external IP address: 185.199.110.153.
-- The pattern of repeated failures indicates a likely brute-force attack.
-- An unauthorized access attempt was logged shortly after the failed logins, confirming malicious intent.
-- No successful compromise was detected, but the activity represents a clear security threat.
+## 🛠️ Tools Used
+- Python
+- Regex for pattern matching
+- Basic log parsing techniques
 
-## Skills Demonstrated
-- Log parsing
-- Threat detection
-- Pattern recognition
-- Incident documentation
-- Blue team analysis
+## 📁 Files in This Project
+- **sample.log** — The log file used for analysis  
+- **analysis.py** — Python script used to parse and analyze the logs  
+- **incident_report.md** — A written report summarizing findings  
+- **README.md** — This file
+
+## 📌 Key Findings (Example)
+- Multiple failed login attempts from the same IP  
+- Suspicious access outside normal hours  
+- Repeated errors indicating possible probing  
+- Potential brute-force behavior
+
+## 🧠 What I Learned
+- How to parse and analyze logs using Python  
+- How to identify suspicious patterns in system activity  
+- How to write a clear, structured incident report  
+- How to think like a SOC analyst
