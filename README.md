@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luke — Aspiring Cybersecurity Analyst
+# 👋 Hi, I'm Lucas — Aspiring Cybersecurity Analyst
 
 Welcome to my cybersecurity portfolio!  
 This repository showcases my hands-on projects, certifications, and learning progress as I work toward becoming a cybersecurity analyst.
