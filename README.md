@@ -1,59 +1,37 @@
-# 👋 Hi, I'm Lucas — Aspiring Cybersecurity Analyst
+# Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio!  
-This repository showcases my hands-on projects, certifications, and learning progress as I work toward becoming a cybersecurity analyst.
+Welcome to my cybersecurity portfolio. This repository showcases my hands-on projects, certifications, and learning progress as I build my skills in security analysis, threat detection, and defensive security.
 
----
+## 🛡️ Skills
+- Log analysis
+- Threat detection
+- Python scripting
+- Basic SIEM concepts
+- Networking fundamentals
+- Security fundamentals
 
-## 🔐 Certifications
-- Google Cybersecurity Analyst Certificate  
+## 🧰 Tools
+- Python
+- Wireshark
+- Splunk (basic)
+- TryHackMe labs
+- AI tools for analysis
+
+## 📁 Projects
+- **Log Analysis Project** — Python-based log parsing and threat identification  
+- **AI in Cybersecurity** — Experiments using AI to support security tasks  
+- **TryHackMe Writeups** — Notes and summaries from hands-on labs  
+
+## 🎓 Certifications
+- Microsoft Cybersecurity Certificate  
 - IBM Generative AI Certificate  
+- TryHackMe Pre Security Certificate  
 
-All certification PDFs are stored in the **Certifications/** folder.
-
----
-
-## 🧪 TryHackMe Progress
-I actively complete rooms on TryHackMe to build practical skills in:
-- Linux fundamentals  
-- Networking  
-- Web security  
-- Blue team analysis  
-- Incident response  
-
-Writeups and notes are stored in the **TryHackMe/** folder.
-
----
-
-## 🛠️ Projects
-This portfolio includes projects focused on:
-- Log analysis  
-- SIEM queries  
-- Threat detection  
-- Defensive security  
-- Python automation  
-
-All projects are stored in the **Projects/** folder.
-
----
-
-## 🤖 AI in Cybersecurity
-Using my IBM Generative AI certification, I explore:
-- Log summarization with LLMs  
-- Phishing detection  
-- Security automation  
-
-These experiments are stored in the **AI-in-Cybersecurity/** folder.
-
----
-
-## 🎯 Current Focus
-- Building blue-team skills  
-- Improving SIEM and log analysis  
-- Expanding my cybersecurity portfolio  
-- Preparing for entry-level cybersecurity roles  
-
----
+## 🚀 Currently Learning
+- SOC analyst workflows  
+- SIEM tools  
+- Threat hunting basics  
+- AI-assisted security analysis
 
 ## 📫 Contact
 - **Email:** Lgowen1826@gmail.com
