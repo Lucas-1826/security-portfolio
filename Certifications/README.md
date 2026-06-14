@@ -4,7 +4,7 @@ This folder contains my verified cybersecurity and AI-related certifications.
 Each certification demonstrates my commitment to continuous learning and hands-on skill development.
 
 ## 🛡️ Cybersecurity Certifications
-- **Microsoft Cybersecurity Certificate**
+- **Microsoft Cybersecurity Analyst Certificate**
 - **TryHackMe Pre Security Certificate**
 - **TryHackMe Cybersecurity 101 Certificate**
 
